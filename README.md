@@ -1,2 +1,2 @@
 # SuperStart
- TP Verstak SuperStart course
+ Basic HTML/CSS course taken in March 2020
